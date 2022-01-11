@@ -30,7 +30,7 @@ y=b+∑wixi
 
 #### 收集和查看训练数据
 
-![chapter3-3](C:\Users\Lenovo\Desktop\images\chapter3-3.png)
+https://github.com/YiXuanZhang1537/Notes_HungYi-Lee_ML_DL-2017/blob/main/image/chapter3-3.png
 
 
 
@@ -40,11 +40,11 @@ y=b+∑wixi
 
 定义损失函数
 
-![chapter3-4](C:\Users\Lenovo\Desktop\images\chapter3-4.png)
+https://github.com/YiXuanZhang1537/Notes_HungYi-Lee_ML_DL-2017/blob/main/image/chapter3-4.png
 
 将w,b在二维坐标图上展示
 
-![](C:\Users\Lenovo\Desktop\images\chapter3-5.png)
+https://github.com/YiXuanZhang1537/Notes_HungYi-Lee_ML_DL-2017/blob/main/image/chapter3-5.png
 
 （颜色越深代表模型更优）
 
@@ -61,7 +61,7 @@ y=b+∑wixi
 
 每一步“迈出”的步伐取决于两方面——学习率以及当前位置的斜率
 
-![](C:\Users\Lenovo\Desktop\images\chapter3-9.png)
+https://github.com/YiXuanZhang1537/Notes_HungYi-Lee_ML_DL-2017/blob/main/image/chapter3-9.png
 
 经过多次迭代，会找到local optimal
 
@@ -71,7 +71,7 @@ y=b+∑wixi
 
 如果用图形化的手段表示出来，是这样子的：
 
-![](C:\Users\Lenovo\Desktop\images\chapter3-11.png)
+https://github.com/YiXuanZhang1537/Notes_HungYi-Lee_ML_DL-2017/blob/main/image/chapter3-11.png
 
 #### 梯度下降算法在现实世界遇到的挑战
 
@@ -83,7 +83,7 @@ y=b+∑wixi
 
 #### w和b偏微分的计算方法
 
-![](C:\Users\Lenovo\Desktop\images\chapter3-14.png)
+https://github.com/YiXuanZhang1537/Notes_HungYi-Lee_ML_DL-2017/blob/main/image/chapter3-14.png
 
 ### 验证训练好的模型的好坏
 
